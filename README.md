@@ -4,16 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=20&duration=2200&pause=800&color=2d6a1f&center=true&vCenter=true&width=680&lines=🥕+Track+your+carrots...+and+your+cash!;🍅+See+what%27s+selling+%26+what%27s+rotting;🧅+Profit+insights+fresher+than+your+stock;🥬+3+pages+·+8+charts+·+zero+confusion;🫛+Built+with+Streamlit+·+Plotly+·+Python" alt="Typing SVG" />
+### 🥕 Track your carrots... and your cash! &nbsp;|&nbsp; 🍅 See what's selling & what's rotting &nbsp;|&nbsp; 🥬 3 pages · 8 charts · zero confusion
 
-<br/><br/>
+<br/>
 
 [![Python](https://img.shields.io/badge/Python_3.9+-2d6a1f?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-3f4f75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 [![License](https://img.shields.io/badge/License-MIT-8bc34a?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/your-username/veggie-dashboard?style=for-the-badge&color=c5e86c&logo=github)](https://github.com/your-username/veggie-dashboard/stargazers)
 
 <br/>
 
@@ -202,8 +201,6 @@ git push origin feat/your-awesome-idea
 ## 📄 License
 
 **MIT** — free to use, fork, and sell more vegetables with. 🥦
-
-See [LICENSE](LICENSE) for full details.
 
 ---
 
