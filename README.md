@@ -38,7 +38,7 @@ Whether you're running a corner sabzi shop or tracking a dozen items across week
 ---
 
 ## ✨ Features at a Glance
-
+<div align="center">
 ```
 🥗 THE VEGGIE DASHBOARD MENU
 ════════════════════════════════════════════════════════════
