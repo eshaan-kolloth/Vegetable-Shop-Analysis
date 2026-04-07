@@ -18,7 +18,7 @@
 [![License](https://img.shields.io/badge/License-MIT-7ab648?style=for-the-badge)](LICENSE)
 
 <br/>
-
+<div align="center">
 ```
 🌱 ─────── FRESH ─────── FAST ─────── INSIGHTFUL 🌱
 ```
